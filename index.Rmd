@@ -1,0 +1,72 @@
+---
+title: "OXFORD PHYSICS ACADEMY"
+description: |
+  <b>Unlock Your Potentials - Succeed Your Goals</b>
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+
+
+```{r fig.align='right'}
+knitr::include_graphics("succLogo.PNG", dpi = 200)
+```
+
+# Maths and Physics Tuition
+
+
+
+  - Highly qualified and experienced tutors
+  - Online tutoring
+  - Individual One-to-One or small group tuition in our tuition centre
+  - Subjects covered - MATHS, FURTHER MATHS, APPLIED MATHS, PHYSICS
+  - GCSE, IGCSE, or AS, A-Level for all major exam boards including AQA, Edexcel, OCR, and CIE
+  
+  
+  
+  
+  
+  
+## Our Teaching Approach
+
+  Our teaching approach is simple, but logical. Difficult theories by simple day to day examples-activities. If a student needs to get an excellent result at first time, this is the way to guarantee the success!
+  
+  - Individualized, Customized Learning Plans
+  - Different Approaches to different students depending on their knowledge 
+  - Special Exam Preparations through step-by-step guidance
+  - Proven Success, grade improvement and higher test scores
+
+
+
+## Key Stage / Qualification
+  - KS2 (ages 7-11)
+  - 11+ (ages 7-11)
+  - 13+ (ages 11-13)
+  - KS3 (ages 11-14)
+  - GCSE (ages 14-16)
+  - A-Level (ages 16-18)
+  - Pre-Uni
+
+  
+## Exam Boards 
+  - <b>AQA -</b> https://www.aqa.org.uk/
+  - <b>Edexcel -</b> https://qualifications.pearson.com/en/home.html
+  - <b>OCR -</b> https://www.ocr.org.uk/
+  - <b>CIE-</b> https://www.cambridgeinternational.org/ 
+  - <b>CCEA-</b> https://ccea.org.uk/
+  - <b>ICAAE-</b> https://www.icaae.org/
+  
+  
+  
+## Physics Fundaments (AS and AL)
